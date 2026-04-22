@@ -1,6 +1,6 @@
 ## Hi, I'm Zalve!
 
-**Bachelor of Science in Information Systems** | West Visayas State University | 2027
+**Bachelor of Science in Information Systems** | West Visayas State University | 2026
 
 ## About Me 
 
@@ -11,6 +11,10 @@ modeling, database management, and business intelligence tools.
 
 I am committed to continuous learning and actively seek opportunities to 
 apply analytical methods to solve real-world business problems.
+
+## Areas of Interest
+
+Data Visualization, Predictive Analytics, Business Intelligence
 
 
 <!--
