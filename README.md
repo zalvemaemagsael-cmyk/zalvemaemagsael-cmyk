@@ -12,9 +12,6 @@ modeling, database management, and business intelligence tools.
 I am committed to continuous learning and actively seek opportunities to 
 apply analytical methods to solve real-world business problems.
 
-## Areas of Interest
-
-Data Visualization, Predictive Analytics, Business Intelligence
 
 
 <!--
