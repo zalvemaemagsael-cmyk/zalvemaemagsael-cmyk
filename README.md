@@ -23,6 +23,7 @@
 ### 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zalvemaemagsael-cmyk&theme=default&hide_border=true)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zalvemaemagsael-cmyk&layout=compact&hide_border=true&langs_count=6&cache_seconds=86400)](https://github.com/zalvemaemagsael-cmyk)
 
 ### 🌱 Currently
 
