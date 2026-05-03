@@ -22,8 +22,8 @@
 
 ### 📊 GitHub Stats
 
-![Zalve's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true)
+![Zalve's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zalvemaemagsael-cmyk&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zalvemaemagsael-cmyk&layout=compact&theme=default&hide_border=true)
 
 ---
 
