@@ -17,7 +17,7 @@
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Orange](https://img.shields.io/badge/Orange-FA7D19?style=flat&logoColor=white)
+![Orange Data Mining](https://img.shields.io/badge/Orange%20Data%20Mining-FA7D19?style=flat&logoColor=white)
 ![Jamovi](https://img.shields.io/badge/Jamovi-4A90D9?style=flat&logoColor=white)
 
 ---
@@ -25,12 +25,12 @@
 ### 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zalvemaemagsael-cmyk&theme=default&hide_border=true)](https://git.io/streak-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zalvemaemagsael-cmyk&layout=compact&hide_border=true&langs_count=6&cache_seconds=86400)](https://github.com/zalvemaemagsael-cmyk)
+
 
 ### 🌱 Currently
 
 - 📚 Studying Information Systems with a major in Business Analytics
-- 🔍 Exploring data analysis, visualization, and spatial analytics
+- 🔍 Exploring data analysis, visualization and machine learning
 - 💼 Open to internships and entry-level data analyst roles
 - 🤝 Happy to collaborate on data-driven projects
 
@@ -39,7 +39,7 @@
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:magsaelzalve@gmail.com)
 
 ---
 
