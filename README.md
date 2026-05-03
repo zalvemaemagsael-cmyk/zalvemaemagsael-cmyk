@@ -6,7 +6,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🖥️ Top Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -17,6 +17,8 @@
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Orange](https://img.shields.io/badge/Orange-FA7D19?style=flat&logoColor=white)
+![Jamovi](https://img.shields.io/badge/Jamovi-4A90D9?style=flat&logoColor=white)
 
 ---
 
