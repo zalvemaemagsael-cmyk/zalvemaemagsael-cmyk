@@ -20,7 +20,7 @@
 
 ---
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zalvemaemagsael-cmyk&theme=github-dark-blue&hide_border=true&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B)
 
@@ -33,7 +33,7 @@
 
 ---
 
-# 📬 Connect with Me
+### 📬 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/zalvemaemagsael/" target="_blank">
