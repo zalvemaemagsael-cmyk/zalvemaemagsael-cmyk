@@ -12,11 +12,15 @@
 #### 💻 Programming & Web  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-#### 📊 Analytics & Visualization  
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/Orange%20Data%20Mining-F28C28?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Jamovi-4A90E2?style=for-the-badge&logoColor=white" />
+### 📊 Analytics & Visualization  
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/Orange%20Data%20Mining-F28C28?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Jamovi-4A90E2?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Weka%20Waikato-00599C?style=for-the-badge&logoColor=white" />
 
-#### 🛠 Development & Research Tools  
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" /> <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+### 🛠 Development & Research Tools
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
 
 ---
 
