@@ -6,20 +6,40 @@
 
 ---
 
-### 🖥️ Top Languages & Tools
+<h1 align="center">🚀 Tech Stack & Tools</h1>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Orange Data Mining](https://img.shields.io/badge/Orange%20Data%20Mining-FA7D19?style=flat&logoColor=white)
-![Jamovi](https://img.shields.io/badge/Jamovi-4A90D9?style=flat&logoColor=white)
+<p align="center">
+  A curated collection of technologies, analytics platforms, and development tools I use in projects and research.
+</p>
 
+---
+
+<h3 align="center">💻 Programming & Web</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<h3 align="center">📊 Analytics & Visualization</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Orange%20Data%20Mining-F28C28?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jamovi-4A90E2?style=for-the-badge&logoColor=white" />
+</p>
+
+<h3 align="center">🛠 Development & Research Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+<p align="center"><i>Blending technology, analytics, and research to build impactful solutions.</i></p>
 ---
 
 ### 📊 GitHub Stats
