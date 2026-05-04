@@ -27,10 +27,10 @@
 
 ### 🌱 Currently
 
-- 📚 Studying Information Systems with a major in Business Analytics
-- 🔍 Exploring data analysis, visualization and machine learning
-- 💼 Open to internships and entry-level data analyst roles
-- 🤝 Happy to collaborate on data-driven projects
+- Studying Information Systems with a major in Business Analytics
+- Exploring data analysis, visualization and machine learning
+- Open to internships and entry-level data analyst roles
+- Happy to collaborate on data-driven projects
 
 ---
 
